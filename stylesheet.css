@@ -87,6 +87,9 @@ footer {
   color: #fff;
   background-color: rgba(10, 0, 56, 0.9);
 }
+.mail {
+  color: white;
+}
 .modal {
   position: fixed;
   top: 0;
